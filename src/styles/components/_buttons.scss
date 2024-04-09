@@ -11,12 +11,17 @@
     &--primary {
         color: #fff;
         background-color: variables.$buttonColor;
+
+        &:hover {
+            background: variables.$buttonColorHover;
+        }
     }
 
     @media (max-width: 640px) {
         display: block;
         width: 100%;
-        
+        justify-content: center;
+       
     }
 
     @media (max-width: 1024px) {

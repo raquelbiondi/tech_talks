@@ -84,8 +84,6 @@
     "js-yaml": "^4.1.0",
     "json-parse-even-better-errors": "^2.3.1",
     "json5": "^2.2.3",
-    "lightningcss": "^1.24.1",
-    "lightningcss-win32-x64-msvc": "^1.24.1",
     "lines-and-columns": "^1.2.4",
     "lmdb": "^2.8.5",
     "lru-cache": "^6.0.0",
@@ -152,7 +150,5 @@
     "weak-lru-cache": "^1.2.2",
     "wrappy": "^1.0.2",
     "yallist": "^4.0.0"
-  },
-  "main": "index.js",
-  "description": ""
+  }
 }
